@@ -1,0 +1,80 @@
+body{
+
+background-image: url("../media/bg.jpg");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+body{
+    color:white;
+}
+
+
+
+#fetch_column{
+
+font-family: "Arial";
+    color: white;
+
+}
+
+
+#container{
+
+margin-top:50px;
+
+}
+#welcome{
+    color: white;
+    text-align: center;
+}
+#calendardiv{
+
+align-items: center;
+}
+
+.btn-circle{
+     width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+
+}
+
+.btn-xl {
+    width: 60px;
+    height: 60px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+}
+
+#reminder{
+    color:orangered;
+
+}
+#failureMessage{
+    color:red
+}
+#successMessage{
+    color:green
+}
+.thought{
+    background-image: url("../media/thought.jpg");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.formClass{
+background-color: #2aabd2;
+}
